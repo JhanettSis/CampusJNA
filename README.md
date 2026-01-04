@@ -66,14 +66,6 @@ El acceso administrativo está protegido mediante **Autenticación Jerárquica**
 
 ---
 
-## 📂 Estructura del Repositorio
-
-* `/configs`: Archivos `.txt` con las configuraciones completas de Routers y Switches.
-* `/diagrams`: Diagrama de topología en formato imagen o PDF.
-* `/scripts`: Scripts básicos de automatización (si aplica).
-
----
-
 ## 🛠️  Conmutación de Capa 2 (Switching)
 
 * **VLAN Segmentation:** División de dominios de difusión mediante 9 VLANs para aislar departamentos (Admisiones, IT, Finanzas, HR, etc.).
